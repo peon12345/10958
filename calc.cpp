@@ -539,10 +539,6 @@ bool Calc::checkExpression(QString expression){
             }
         }
 
-//        if(i == length - 1){
-//            int o;
-//            o = 235;
-//        }
 
     }
 
